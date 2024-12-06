@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RBAC/static/css/main.4383eb6a.css",
-    "main.js": "/RBAC/static/js/main.bfd2bbf8.js",
+    "main.js": "/RBAC/static/js/main.5188c44e.js",
     "index.html": "/RBAC/index.html",
     "main.4383eb6a.css.map": "/RBAC/static/css/main.4383eb6a.css.map",
-    "main.bfd2bbf8.js.map": "/RBAC/static/js/main.bfd2bbf8.js.map"
+    "main.5188c44e.js.map": "/RBAC/static/js/main.5188c44e.js.map"
   },
   "entrypoints": [
     "static/css/main.4383eb6a.css",
-    "static/js/main.bfd2bbf8.js"
+    "static/js/main.5188c44e.js"
   ]
 }
