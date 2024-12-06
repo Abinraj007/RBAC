@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RBAC/static/css/main.4383eb6a.css",
-    "main.js": "/RBAC/static/js/main.5188c44e.js",
-    "index.html": "/RBAC/index.html",
-    "main.4383eb6a.css.map": "/RBAC/static/css/main.4383eb6a.css.map",
-    "main.5188c44e.js.map": "/RBAC/static/js/main.5188c44e.js.map"
+    "main.css": "/rbac/static/css/main.4383eb6a.css",
+    "main.js": "/rbac/static/js/main.5188c44e.js",
+    "index.html": "/rbac/index.html",
+    "main.4383eb6a.css.map": "/rbac/static/css/main.4383eb6a.css.map",
+    "main.5188c44e.js.map": "/rbac/static/js/main.5188c44e.js.map"
   },
   "entrypoints": [
     "static/css/main.4383eb6a.css",
