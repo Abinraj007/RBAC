@@ -1,7 +1,7 @@
 // src/App.js
 
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
 import { useAuth } from './contexts/AuthContext';
 import AdminDashboard from './pages/Dashboard/AdminDashboard';
 import AdministratorDashboard from './pages/Dashboard/AdministratorDashboard';
@@ -23,6 +23,7 @@ const App = () => {
   const { isAuthenticated, role } = useAuth();
 
   return (
+    <BrowserRouter basename="/rbac">
     <Router>
       {isAuthenticated && (
         <>
@@ -84,6 +85,7 @@ const App = () => {
         />
       </Routes>
     </Router>
+    </BrowserRouter>
   );
 };
 
