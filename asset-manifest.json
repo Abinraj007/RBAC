@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rbac/static/css/main.4383eb6a.css",
-    "main.js": "/rbac/static/js/main.2729788a.js",
+    "main.js": "/rbac/static/js/main.1dab68f3.js",
     "index.html": "/rbac/index.html",
     "main.4383eb6a.css.map": "/rbac/static/css/main.4383eb6a.css.map",
-    "main.2729788a.js.map": "/rbac/static/js/main.2729788a.js.map"
+    "main.1dab68f3.js.map": "/rbac/static/js/main.1dab68f3.js.map"
   },
   "entrypoints": [
     "static/css/main.4383eb6a.css",
-    "static/js/main.2729788a.js"
+    "static/js/main.1dab68f3.js"
   ]
 }
